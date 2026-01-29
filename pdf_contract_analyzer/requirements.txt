@@ -1,0 +1,10 @@
+pdfplumber
+pypdf
+python-dotenv
+tqdm
+pandas
+openpyxl
+requests
+google-generativeai
+pytesseract
+pdf2image
